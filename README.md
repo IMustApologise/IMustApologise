@@ -1,1 +1,1 @@
-# mitsq
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ip6fmm2w4v6xgt6zmozh4qtjom&cover_image=true&theme=default&show_offline=true&background_color=77ac7d&interchange=true&profanity=false&bar_color_cover=false&bar_color=fafffa)](https://spotify-github-profile.kittinanx.com/api/view?uid=31ip6fmm2w4v6xgt6zmozh4qtjom&redirect=true)
